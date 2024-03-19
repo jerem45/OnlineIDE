@@ -1,5 +1,5 @@
 # Application OnlineIDE
-## Technologies utilisées : React.js / Tailwind CSS
+## Technologies utilisées : React.js + Redux / Tailwind CSS
 Création d'un éditeur de code en ligne avec 3 parties (HTML, CSS, JavaScript) qui permet de coder directement en ligne et de pouvoir prévisualiser le résultat de son code en temps réel.
 
 ### Mise en place du projet
